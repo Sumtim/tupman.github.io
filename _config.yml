@@ -1,0 +1,112 @@
+# Site settings
+title: SIR Blog  #你博客的标题
+SEOTitle: 知哲学 | 爱智慧  #显示在浏览器上搜索的时候显示的标题
+header-img: img/page-bg-keyboard.png #显示在首页的背景图片
+email: hulushuo@qq.com
+description: "Ever since I learned to speak, I never stop thinking." #网站介绍
+keyword: "SIR Blog,哲学,世界观,方法论" #关键词
+url: "https://tupman.github.io"          # your host, for absolute URL
+baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+github_repo: "https://github.com/tupman/tupman.github.io" # you code repository
+author: SIR
+
+# 是否托管在Coding_Pages
+Coding_Pages: true
+
+#  是否开启百度自动推送JS代码
+baidu_js_push: false
+
+# Sidebar settings侧边栏
+sidebar: true                           # whether or not using Sidebar.
+sidebar-about-description: "Ever since I learned to speak, I never stop thinking."
+sidebar-avatar: /img/avatar_p11179162.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+
+
+# SNS settings社交账号
+RSS: false
+# weibo_username:  Sir柳宗元
+zhihu_username:    潇潇孤舟翁
+github_username:    tupman
+# facebook_username:
+twitter_username:   
+# coding_username: tupman
+
+
+
+# Build settings
+# from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
+permalink: pretty
+paginate: 10
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
+
+
+
+# Gems
+# from PR#40, to support local preview for Jekyll 3.0
+# gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
+
+
+
+# Markdown settings
+# replace redcarpet to kramdown,
+# although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
+# document: http://jekyllrb.com/docs/configuration/#kramdown
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM                            # use Github Flavored Markdown !important
+
+
+# 评论系统
+# Gitalk
+gitalk:
+  enable: true    #是否开启Gitalk评论
+  clientID: 'dacbae6d43babe4a0cff'    #生成的clientID
+  clientSecret: '7526cb3d9ce47edecfab3a3df73b037eb52b304d'   #同上
+  repo: tupman.github.io    #仓库名称
+  owner: tupman    #github用户名
+  admin: tupman
+
+
+
+
+# Analytics settings 百度统计track_id
+# Baidu Analytics
+ba_track_id: 7434afe515c592bf1e46f05bea0b1768
+
+# Google Analytics
+# ga_track_id: 'UA-132855270-1'            # Format: UA-xxxxxx-xx
+# ga_domain: auto
+
+
+
+
+
+# Featured Tags
+featured-tags: true                     # 是否使用首页标签
+featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
+
+#search plugins
+search: true                            # 是否使用搜索插件
+
+# Progressive Web Apps
+chrome-tab-theme-color: "#000000"
+service-worker: true
+
+
+
+# Friends好友链接
+friends: [
+    {
+        title: "知乎.sir",
+        href: "http://www.zhihu.com/people/ma-yong-hao-2?utm_source=com.tencent.tim&utm_medium=social"
+    },{
+        title: "Steemit",
+        href: "https://steemit.com/@iqeq/feed"
+    },{
+        title: "微博",
+        href: "https://www.weibo.com/u/6737649893?is_all=1"
+    }
+]
