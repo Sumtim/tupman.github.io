@@ -56,7 +56,7 @@ tags:
 
 ----
 
-<center>![](https://upload-images.jianshu.io/upload_images/2154045-ad29337d64cc231d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/300/format/webp)</center>
+![](https://upload-images.jianshu.io/upload_images/2154045-ad29337d64cc231d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/300/format/webp)
 
 ### 学前须知
 
