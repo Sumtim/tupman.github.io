@@ -108,7 +108,7 @@ tags:
 
 ----
 
-![思维导图示例](https://pic2.zhimg.com/v2-2404e04594c20ccf0d32852100fc0593_1200x500.jpg)
+![](https://pic2.zhimg.com/v2-2404e04594c20ccf0d32852100fc0593_1200x500.jpg)
 
 ### 高效上网指北
 
