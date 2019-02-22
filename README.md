@@ -1,4 +1,4 @@
-# 欢迎大家关注我的博客[![](https://github.com/tupman.github.io/img/apple-touch-icon.png)](https://tupman.github.io)
+# 欢迎大家关注我的[博客](https://tupman.github.io)
 
 ## 信息差，21世纪的「降维打击」
 
@@ -84,7 +84,7 @@
 
 ----
 
-![思维导图示例](https://pic2.zhimg.com/v2-2404e04594c20ccf0d32852100fc0593_1200x500.jpg)
+![](https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/pic/item/adaf2edda3cc7cd90aceeecc3a01213fb90e91c0.jpg)
 
 ### 高效上网指北
 
