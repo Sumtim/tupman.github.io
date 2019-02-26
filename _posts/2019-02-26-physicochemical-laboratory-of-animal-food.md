@@ -2,7 +2,7 @@
 
 layout:                 post
 
-title:                    《动物性食品理化检验学》
+title:                    动物性食品理化检验学
 
 subtitle:              physicochemical laboratory of animal food
 
