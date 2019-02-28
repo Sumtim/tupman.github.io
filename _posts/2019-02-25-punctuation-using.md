@@ -1,23 +1,25 @@
 ---
-layout:                 post
 
-title:                    标点符号，你真的会用吗？
+layout:                 post
 
-subtitle:              punctuation using
+title:                    标点符号，你真的会用吗？
 
-data:                    2019-02-25
+subtitle:              punctuation using
 
-author:                SIR
+data:                    2019-02-25
 
-header-img:       img/post-xiaohai.jpg
+author:                SIR
+
+header-img:       img/post-xiaohai.jpg
 
 keywords_post: "punctuation,标点符号"
 
-catalog:              true
+catalog:              true
 
 tags:
-    - punctuation
-    
+
+    - punctuation
+
 ---
 
 
