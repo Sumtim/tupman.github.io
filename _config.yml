@@ -1,13 +1,13 @@
 # Site settings
 title: SIR Blog  #你博客的标题
-SEOTitle: 知哲学 | 爱智慧  #显示在浏览器上搜索的时候显示的标题
+SEOTitle: 方向决定所有  #显示在浏览器上搜索的时候显示的标题
 header-img: img/page-bg-keyboard.png #显示在首页的背景图片
 email: hulushuo@qq.com
 description: "Ever since I learned to speak, I never stop thinking." #网站介绍
-keyword: "SIR Blog,哲学,世界观,方法论" #关键词
-url: "https://tupman.github.io"          # your host, for absolute URL
+keyword: "SIR Blog,共享,世界" #关键词
+url: "https://Sumtim.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/tupman/tupman.github.io" # you code repository
+github_repo: "https://github.com/Sumtim/Sumtim.github.io" # you code repository
 author: SIR
 
 # 是否托管在Coding_Pages
@@ -18,15 +18,15 @@ baidu_js_push: false
 
 # Sidebar settings侧边栏
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Ever since I learned to speak, I never stop thinking."
+sidebar-about-description: "We're here to put a dent in the universe. Otherwise why else even be here?"
 sidebar-avatar: /img/avatar_p11179162.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 # SNS settings社交账号
 RSS: false
-# weibo_username:  Sir柳宗元
-zhihu_username:    潇潇孤舟翁
-github_username:    tupman
+# weibo_username:  @花无生
+zhihu_username:    花无生
+github_username:    Sumtim
 # facebook_username:
 twitter_username:   
 # coding_username: tupman
@@ -101,12 +101,12 @@ service-worker: true
 friends: [
     {
         title: "知乎.sir",
-        href: "http://www.zhihu.com/people/ma-yong-hao-2?utm_source=com.tencent.tim&utm_medium=social"
+        href: "https://www.zhihu.com/people/li-xiao-lang-72-26/activities"
     },{
         title: "Steemit",
-        href: "https://steemit.com/@iqeq/feed"
+        href: ""
     },{
         title: "微博",
-        href: "https://www.weibo.com/u/6737649893?is_all=1"
+        href: "https://weibo.com/u/6296050913/home?wvr=5&lf=reg"
     }
 ]
