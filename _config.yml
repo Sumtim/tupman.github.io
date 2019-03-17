@@ -110,3 +110,5 @@ friends: [
         href: "https://weibo.com/u/6296050913/home?wvr=5&lf=reg"
     }
 ]
+
+theme: jekyll-theme-cayman
